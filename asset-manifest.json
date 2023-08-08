@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/enumeratewebapp/static/css/main.dc3b8803.css",
+    "main.js": "/enumeratewebapp/static/js/main.4476e128.js",
+    "index.html": "/enumeratewebapp/index.html",
+    "main.dc3b8803.css.map": "/enumeratewebapp/static/css/main.dc3b8803.css.map",
+    "main.4476e128.js.map": "/enumeratewebapp/static/js/main.4476e128.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc3b8803.css",
+    "static/js/main.4476e128.js"
+  ]
+}
